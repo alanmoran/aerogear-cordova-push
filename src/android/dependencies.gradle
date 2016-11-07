@@ -8,6 +8,8 @@ dependencies {
     compile 'org.jboss.aerogear:aerogear-android-pipe:3.0.0'
     compile 'org.jboss.aerogear:aerogear-android-store:3.0.2'
     compile 'org.jboss.aerogear:aerogear-android-push:4.0.1'
+    compile 'com.google.android.gms:play-services-location:9.4.0'
+
 }
 
 cdvMinSdkVersion = 16
